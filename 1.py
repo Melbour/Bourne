@@ -21,4 +21,4 @@ def findURL(urlname):
 #主程序
 urlName="http://www.baidu.com/"#要爬取得第一个网页
 findURL(urlName)#调用自己的函数
-print("已经找完了！\n")#函数结束提示
+print("已经找完了！\n")
